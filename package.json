@@ -1,6 +1,6 @@
 {
   "name": "funval-profile",
-  "engines": { "node": "20.x" },
+  "engines": { "node": "24.x" },
   "private": true,
   "version": "1.0.0",
   "type": "module",
